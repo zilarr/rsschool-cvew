@@ -1,0 +1,67 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    background-color: #BFA893;
+    margin: 0px;
+}
+header{
+    background-color: #F2DAC4;
+    box-shadow: 0 14px 28px #594636;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.header_info{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.my_name{
+    margin: 0px 40px 0px 40px;
+}
+.avatar{
+    width: 170px;
+    height: 170px;
+    margin: 10px;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+ }
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
+ ul{
+    list-style-type: none;
+    font-size: 20px;
+ }
+.info{
+    width: 40%;
+    box-shadow: 0 14px 28px #594636, 0 10px 10px #594636;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    background-color: #F2DAC4;
+    border-radius: 10px;
+ }
+ .skills {
+    width: 30%;
+    margin: 30px;
+    padding: 10px;
+    background-color: #F2DAC4;
+    border-radius: 10px;
+    box-shadow: 0 14px 28px #594636, 0 10px 10px #594636;
+    text-align: center;
+ }
+ footer{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+ }
+.footer_img{
+    width: 90px;
+}
